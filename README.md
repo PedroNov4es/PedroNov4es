@@ -45,9 +45,6 @@
 | [💈 Site de Barbearia](https://barber-shop-k5s4.vercel.app/) | Landing page com estilos organizados em arquivos SCSS modulares | HTML, CSS, SASS/SCSS |
 | [🔐 Gerador de Senha](https://gerador-de-senha-phi-six.vercel.app/) | Ferramenta que gera senhas aleatórias | HTML, CSS, JavaScript |
 ---
-
-## 🐍 Minhas contribuições
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroNov4es/PedroNov4es/output/github-snake-dark.svg">
