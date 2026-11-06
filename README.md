@@ -14,7 +14,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitário Braz Cubas
-- 💻 Gosto de criar interfaces com **React** e transformar ideias em projetos publicados
+- 💻 Desenvolvo interfaces com **React** e aplicações back-end com **Java**, transformando ideias em soluções tecnológicas
 - 🗄️ Estudando **banco de dados (MySQL)** e modelagem de dados
 - 📍 Itaquaquecetuba – SP
 
